@@ -20,6 +20,8 @@ AliOssForTypecho modify
 * 添加图片处理样式，支持自定义规则。
 * 更新了最新的OssClient（虽然我不知道它怎么用
 
+自己的gitlab源：<http://114.98.234.56:8010/root/aliossfortypecho>
+
 
 
 
